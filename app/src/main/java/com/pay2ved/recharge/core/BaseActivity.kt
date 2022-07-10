@@ -1,3 +1,4 @@
+/*
 package com.jmcpapertech.jmcapp.core
 
 import android.content.Context
@@ -123,4 +124,4 @@ open class BaseActivity : AppCompatActivity() {
         dialog.show()
     }
 
-}
+}*/
